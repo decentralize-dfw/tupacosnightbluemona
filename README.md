@@ -3,5 +3,7 @@ https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/TUP
 https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/TUPACOSNIGHTBLUMONA-MTOON.vrm
 https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/TUPACOS.vrm
 https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/GreeenScreenHooder.vrm
+https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/praier.vrm
+
 
 
