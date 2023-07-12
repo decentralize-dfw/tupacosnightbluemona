@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/HEX
 https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/Colorful_Pepe_Neo.vrm
 https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/sitbaba.vrm
 https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/HP.vrm
+https://raw.githubusercontent.com/decentralize-dfw/tupacosnightbluemona/main/HEXMUTT.vrm
 
 
 
